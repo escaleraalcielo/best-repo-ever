@@ -1,1 +1,2 @@
-# best-repo-ever
+# Testing git with VS Code
+Hello World!
